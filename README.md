@@ -1,2 +1,2 @@
 # hello-world
-Beginner , aims to get a certificate
+Beginner , aims to become a good web developer 
